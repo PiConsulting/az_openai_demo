@@ -11,7 +11,7 @@ Proyecto demo para realizar prácticas de prompt engineering con az openAI
 
 ## Instalar y ejecutar localmente el proyecto
 
-1. Clonar el repositorio: `git clone https://github.com/PiConsulting/rag_demo`
+1. Clonar el repositorio: `git clone https://github.com/PiConsulting/az_openai_demo`
 
 
 2. Abrir el proyecto con visual studio code. 
